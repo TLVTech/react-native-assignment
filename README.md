@@ -20,7 +20,7 @@
 On the command prompt run the following commands
 
 ```sh
-$ git clone -b RN https://github.com/clearcare/react-native-assignment.git
+$ git clone https://github.com/clearcare/react-native-assignment.git
 
 $ cd react-native-assignment/
 
